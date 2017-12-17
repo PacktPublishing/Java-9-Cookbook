@@ -32,5 +32,4 @@ space, and Windows or Linux OS. The following software/libraries are required:
 
 * [PostgreSQL 9 Administration Cookbook: LITE Edition](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-9-administration-cookbook-lite-edition?utm_source=github&utm_medium=repository&utm_campaign=9781849516204)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
